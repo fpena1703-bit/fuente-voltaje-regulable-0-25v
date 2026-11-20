@@ -25,27 +25,30 @@ La idea surgió como asignación práctica en una materia universitaria de elect
 
 ### Evidencia visual del prototipo
 
-Las fotografías corresponden a fases distintas de desarrollo. Las capturas de Proteus reflejan iteraciones del esquema y pueden mostrar valores diferentes de los indicados en la lista de materiales.
+Las imágenes siguientes son las **fotografías originales a resolución completa**, sin reducirlas a miniaturas. Haz clic en cualquiera para abrir el archivo original.
 
-**Esquema en Proteus — simulación con instrumentos:**
+Las capturas de Proteus corresponden a iteraciones del esquema y pueden mostrar valores diferentes de los indicados en la lista de materiales.
 
-![Esquema del LM317 en Proteus, con instrumentos de medición](img/esquema-proteus.webp)
+**Esquema en Proteus — simulación con instrumentos (1600 × 1200):**
 
-**Otra iteración del esquema en Proteus:**
+[![Simulación del circuito LM317 en Proteus, con instrumentos de medición](img/esquema-proteus-simulacion.jpg)](img/esquema-proteus-simulacion.jpg)
 
-![Otra versión del esquema en Proteus](img/esquema-proteus-variante.webp)
+**Otra iteración del esquema en Proteus (1600 × 1200):**
 
-**Pruebas iniciales sobre protoboard:**
+[![Otra versión del esquema LM317 en Proteus](img/esquema-proteus-alternativo.jpg)](img/esquema-proteus-alternativo.jpg)
 
-![Circuito LM317 armado en protoboard](img/montaje-en-protoboard.webp)
+**Pruebas iniciales sobre protoboard (1600 × 1200):**
 
-**Placa perforada, antes de soldar:**
+[![Circuito LM317 armado en protoboard](img/montaje-en-protoboard.jpg)](img/montaje-en-protoboard.jpg)
 
-![Componentes colocados sobre la placa perforada, antes de soldar](img/placa-antes-soldar.webp)
+**Placa perforada, antes de soldar (1600 × 1200):**
 
-**Vista superior del prototipo integrado en el gabinete:**
+[![Componentes colocados sobre placa perforada, antes de soldar](img/placa-antes-soldar.jpg)](img/placa-antes-soldar.jpg)
 
-![Prototipo LM317 armado en caja, con transformador, placa perforada y controles](img/prototipo-vista-superior.webp)
+**Vista superior del prototipo integrado en el gabinete (1599 × 899):**
+
+[![Prototipo LM317 armado en gabinete, con transformador, placa perforada y controles](img/prototipo-vista-superior.jpg)](img/prototipo-vista-superior.jpg)
+
 
 ---
 
