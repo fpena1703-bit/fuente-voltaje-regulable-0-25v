@@ -24,12 +24,28 @@ La idea surgió como asignación práctica en una materia universitaria de elect
 * **Simulación y documentación:** Circuito esquemático diseñado y verificado en **Proteus**, acompañado de la lista de materiales (BOM) y cálculos térmicos y eléctricos disponibles en `docs/fuente_LM317_componentes.xlsx`.
 
 ### Evidencia visual del prototipo
-* **Esquema en Proteus:**
-  ![Esquema en Proteus](img/esquema-proteus.png)
-* **Placa perforada antes de soldar:**
-  ![Placa perforada antes de soldar](img/placa-antes-soldar.jpg)
-* **Vista superior del prototipo armado:**
-  ![Vista superior del prototipo armado](img/prototipo-vista-superior.jpg)
+
+Las fotografías corresponden a fases distintas de desarrollo. Las capturas de Proteus reflejan iteraciones del esquema y pueden mostrar valores diferentes de los indicados en la lista de materiales.
+
+**Esquema en Proteus — simulación con instrumentos:**
+
+![Esquema del LM317 en Proteus, con instrumentos de medición](img/esquema-proteus.webp)
+
+**Otra iteración del esquema en Proteus:**
+
+![Otra versión del esquema en Proteus](img/esquema-proteus-variante.webp)
+
+**Pruebas iniciales sobre protoboard:**
+
+![Circuito LM317 armado en protoboard](img/montaje-en-protoboard.webp)
+
+**Placa perforada, antes de soldar:**
+
+![Componentes colocados sobre la placa perforada, antes de soldar](img/placa-antes-soldar.webp)
+
+**Vista superior del prototipo integrado en el gabinete:**
+
+![Prototipo LM317 armado en caja, con transformador, placa perforada y controles](img/prototipo-vista-superior.webp)
 
 ---
 
