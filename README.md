@@ -68,6 +68,17 @@ La idea surgió como asignación práctica en una materia universitaria de elect
 | 19 | — | Placa perforada | Estándar | 1 | Base de montaje del prototipo actual |
 | 20 | — | Caja plástica o gabinete | Con ranuras de ventilación | 1 | Encapsulado y aislamiento mecánico |
 
+### Precauciones de seguridad
+Antes de armar, soldar o energizar la fuente de alimentación, toma en cuenta estas medidas básicas de seguridad eléctrica:
+
+* **Aislamiento de la etapa primaria (120 V AC):** El devanado primario del transformador, el interruptor `SW1` y el portafusible `F1` trabajan directamente con voltaje de red doméstica (120 V AC). Asegura todas las conexiones con materiales de aislamiento adecuados y nunca manipules esa zona con el cable conectado a la toma de corriente.
+* **Polaridad de capacitores electrolíticos:** Verifica la orientación correcta de `C1` (4700 µF / 35 V) y `C2` (10 µF / 25 V) antes de energizar el circuito. Conectar un capacitor electrolítico con polaridad invertida puede dañarlo o hacerlo estallar.
+* **Descarga de capacitores:** Antes de realizar mediciones de continuidad o retocar soldaduras, desconecta la fuente y verifica con un multímetro que el capacitor principal `C1` se haya descargado por completo. No asumas que basta con esperar.
+* **Uso seguro del cautín:** Trabaja en un área ventilada, apoya siempre el cautín en su base metálica cuando no lo estés usando y evita tocar la punta caliente o inhalar el humo del estaño directamente.
+* **Disipación térmica:** El regulador `LM317T` puede alcanzar temperaturas elevadas. Utiliza un disipador dimensionado para las condiciones reales y evita tocarlo durante las pruebas con carga.
+
+> **Aviso:** Una foto del montaje, la presencia de un fusible o un gabinete no demuestran que el equipo esté protegido frente a contactos con 120 V AC. Es indispensable la revisión de una persona cualificada antes de energizarlo.
+
 ---
 
 ## Próximos pasos
